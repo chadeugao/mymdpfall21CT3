@@ -56,6 +56,8 @@ h3{
 ol{
   list-style: none;
   padding-left: 0px;
+  font-size: 1.125em;/*18px*/
+  color:#ffffff;
 }
 
 ul{
