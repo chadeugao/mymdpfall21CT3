@@ -48,17 +48,10 @@ h3{
 
 /*body elements*/
 
-.links{
-  text-align: center;
-  margin-top: 20px;
-  padding:0px;
-  display:flex;
-  line-height: 2em;
-  word-break: keep-all;
-  word-break: keep-all;
-
-  opacity:0.8;
-  border-radius: 25px;
+.column{
+  float: left;
+  width: 100%;
+  padding: 15px;
 }
 
 
