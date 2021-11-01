@@ -11,7 +11,10 @@ img{
 
 h1{
   margin:0px;
-  padding:0px;
+  padding:10px;
+  height: 80%;
+  width:auto;
+  
 }
 
 p{
