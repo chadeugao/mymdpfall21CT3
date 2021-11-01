@@ -23,8 +23,9 @@ p{
 }
 
 section{
-  flex:1;
-  height:inherit;
+  float: left;
+  width: 33.33%;
+  padding: 15px;
 }
 
 iframe{
