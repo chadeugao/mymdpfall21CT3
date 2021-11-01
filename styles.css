@@ -46,6 +46,10 @@ h3{
   font-size: 1.125em;/*18px*/
 }
 
+ol{
+  padding: 0px;
+}
+
 /*body elements*/
 
 .column{
