@@ -43,7 +43,7 @@ header #head{
 
 /*proj1*/
 #projects #proj1{
-  background-image: url(images/proj1.png);
+  background-image: url(project_1/img/zoetrope_picture_1.png);
   background-position: center;
 }
 
@@ -65,7 +65,7 @@ header #head{
 /*proj2*/
 
 #projects #proj2{
-  background-image: url(images/proj2.png);
+  background-image: url(project_2/img/final_2.png);
   background-position: center;
 }
 
@@ -87,7 +87,7 @@ header #head{
 /*proj3*/
 
 #projects #proj3{
-  background-image: url(images/proj3.png);
+  background-image: url(project_3/img/final.png);
   background-position: center;
 }
 
@@ -109,7 +109,7 @@ header #head{
 /*proj4*/
 
 #projects #proj4{
-  background-image: url(images/proj4.png);
+  background-image: url(project_4/img/final.png);
   background-position: center;
 }
 
@@ -168,9 +168,7 @@ a:active{
 /*footer*/
 
 footer {
-  background-color: #000000;
   margin: 0px auto;
-  height:60px;
   line-height: 60px;
   text-align: center;
 }
