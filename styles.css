@@ -74,6 +74,19 @@ ol{
   padding: 15px;
 }
 
+/*projects*/
+
+#projects section{
+  height:300px;
+  margin: auto;
+  margin-top: auto;
+  margin-bottom: 35px;
+  width: 80%;
+  border-radius: 20px;
+  box-shadow:2px 2px 2px 2px grey;
+  position: relative;
+}
+
 
 /*footer*/
 
